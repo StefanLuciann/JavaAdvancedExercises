@@ -13,6 +13,7 @@ import java.util.stream.Collectors;
  */
 public class Main {
     public static void main(String[] args) throws IOException {
+        Path path = Path.of("D:\\Java\\JavaAdvancedLiveCoding\\Resources\\File.txt");
         wordOccurrencesTable(path);
     }
 
