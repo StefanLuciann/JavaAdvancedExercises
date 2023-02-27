@@ -1,0 +1,138 @@
+| Key: standard| Value: 1|
+ ----------- 
+| Key: | Value: 2|
+ ----------- 
+| Key: but| Value: 1|
+ ----------- 
+| Key: industry's| Value: 1|
+ ----------- 
+| Key: been| Value: 1|
+ ----------- 
+| Key: software| Value: 1|
+ ----------- 
+| Key: release| Value: 1|
+ ----------- 
+| Key: type| Value: 2|
+ ----------- 
+| Key: when| Value: 1|
+ ----------- 
+| Key: dummy| Value: 2|
+ ----------- 
+| Key: Aldus| Value: 1|
+ ----------- 
+| Key: passages,| Value: 1|
+ ----------- 
+| Key: only| Value: 1|
+ ----------- 
+| Key: text| Value: 2|
+ ----------- 
+| Key: has| Value: 2|
+ ----------- 
+| Key: 1960s| Value: 1|
+ ----------- 
+| Key: Ipsum| Value: 4|
+ ----------- 
+| Key: five| Value: 1|
+ ----------- 
+| Key: publishing| Value: 1|
+ ----------- 
+| Key: took| Value: 1|
+ ----------- 
+| Key: 1500s,| Value: 1|
+ ----------- 
+| Key: including| Value: 1|
+ ----------- 
+| Key: in| Value: 1|
+ ----------- 
+| Key: like| Value: 1|
+ ----------- 
+| Key: containing| Value: 1|
+ ----------- 
+| Key: printer| Value: 1|
+ ----------- 
+| Key: is| Value: 1|
+ ----------- 
+| Key: typesetting| Value: 1|
+ ----------- 
+| Key: it| Value: 1|
+ ----------- 
+| Key: survived| Value: 1|
+ ----------- 
+| Key: an| Value: 1|
+ ----------- 
+| Key: typesetting,| Value: 1|
+ ----------- 
+| Key: Letraset| Value: 1|
+ ----------- 
+| Key: remaining| Value: 1|
+ ----------- 
+| Key: ever| Value: 1|
+ ----------- 
+| Key: versions| Value: 1|
+ ----------- 
+| Key: scrambled| Value: 1|
+ ----------- 
+| Key: since| Value: 1|
+ ----------- 
+| Key: galley| Value: 1|
+ ----------- 
+| Key: unchanged.| Value: 1|
+ ----------- 
+| Key: It| Value: 2|
+ ----------- 
+| Key: unknown| Value: 1|
+ ----------- 
+| Key: PageMaker| Value: 1|
+ ----------- 
+| Key: into| Value: 1|
+ ----------- 
+| Key: not| Value: 1|
+ ----------- 
+| Key: sheets| Value: 1|
+ ----------- 
+| Key: desktop| Value: 1|
+ ----------- 
+| Key: and| Value: 3|
+ ----------- 
+| Key: of| Value: 4|
+ ----------- 
+| Key: specimen| Value: 1|
+ ----------- 
+| Key: electronic| Value: 1|
+ ----------- 
+| Key: leap| Value: 1|
+ ----------- 
+| Key: make| Value: 1|
+ ----------- 
+| Key: a| Value: 2|
+ ----------- 
+| Key: industry.| Value: 1|
+ ----------- 
+| Key: centuries,| Value: 1|
+ ----------- 
+| Key: more| Value: 1|
+ ----------- 
+| Key: recently| Value: 1|
+ ----------- 
+| Key: was| Value: 1|
+ ----------- 
+| Key: also| Value: 1|
+ ----------- 
+| Key: printing| Value: 1|
+ ----------- 
+| Key: the| Value: 6|
+ ----------- 
+| Key: with| Value: 2|
+ ----------- 
+| Key: Lorem| Value: 4|
+ ----------- 
+| Key: essentially| Value: 1|
+ ----------- 
+| Key: to| Value: 1|
+ ----------- 
+| Key: book.| Value: 1|
+ ----------- 
+| Key: popularised| Value: 1|
+ ----------- 
+| Key: simply| Value: 1|
+ ----------- 
